@@ -1,0 +1,29 @@
+xbcp /y /f /t /r \\server\WarfareDev\WarfareContent\ xe:\Warfare\
+
+xbcp /y /f ..\Textures\GeistOfficer.utx xe:\Warfare\Textures\
+xbcp /y /f ..\Textures\CogAssaultRifleTex.utx xe:\Warfare\Textures\
+xbcp /y /f ..\Textures\MuzzleFlashes.utx xe:\Warfare\Textures\
+xbcp /y /f ..\Textures\WarHUD.utx xe:\Warfare\Textures\
+xbcp /y /f ..\Textures\Belt_fx.utx xe:\Warfare\Textures\
+xbcp /y /f ..\Textures\Cubemaps.utx xe:\Warfare\Textures\
+xbcp /y /f ..\Textures\LadrStatic.utx xe:\Warfare\Textures\
+xbcp /y /f ..\Textures\PS2Fonts.utx xe:\Warfare\Textures\
+xbcp /y /f ..\Textures\UWindowFonts.utx xe:\Warfare\Textures\
+xbcp /y /f ..\Textures\VehicleSkins.utx xe:\Warfare\Textures\
+xbcp /y /f ..\Textures\Coronas.utx xe:\Warfare\Textures\
+xbcp /y /f ..\Textures\FlappySkin.utx xe:\Warfare\Textures\
+xbcp /y /f ..\Textures\CogSoldiers.utx xe:\Warfare\Textures\
+xbcp /y /f ..\Textures\WarEffectsTextures.utx xe:\Warfare\Textures\
+xbcp /y /f ..\Textures\SC_MeshParticleTex.utx xe:\Warfare\Textures\
+xbcp /y /f ..\Textures\WarfareGuns.utx xe:\Warfare\Textures\
+xbcp /y /f ..\Textures\SC_MeshParticleTex.utx xe:\Warfare\Textures\
+xbcp /y /f ..\StaticMeshes\CogAssaultRifle.usx xe:\Warfare\StaticMeshes\
+xbcp /y /f ..\StaticMeshes\WarEffectsMeshes.usx xe:\Warfare\StaticMeshes\
+xbcp /y /f ..\StaticMeshes\SC_MeshParticles.usx xe:\Warfare\StaticMeshes\
+xbcp /y /f ..\Sounds\Announcer.uax xe:\Warfare\Sounds\
+xbcp /y /f ..\Sounds\Male2Voice.uax xe:\Warfare\Sounds\
+xbcp /y /f ..\Sounds\WeaponSounds.uax xe:\Warfare\Sounds\
+xbcp /y /f ..\Textures\COG-hvy-weapons.utx xe:\Warfare\Textures\
+xbcp /y /f ..\Textures\COGAssaultRifleTex.utx xe:\Warfare\Textures\
+xbcp /y /f ..\Src=Textures\GunTextures.utx xe:\Warfare\Textures\
+xbcp /y /f ..\StaticMeshes\GunMeshes.usx xe:\Warfare\StaticMeshes\
