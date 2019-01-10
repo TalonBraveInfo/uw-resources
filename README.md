@@ -25,4 +25,6 @@ for everything you see here in this repository.
 * /System/DefaultXbox.ini (Unreal II **697**)
 * /System/DefUserXbox.ini (Unreal II **697**)
 * /System/edsplash.bmp (Unreal Tournament 2003 **906**)
+* /System/Manifest.ini (Men of Valor MP Demo)
+* /System/Manifest.int (Men of Valor MP Demo)
 * /Vehicles/... (Unreal Developer Network)
