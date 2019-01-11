@@ -1,4 +1,19 @@
-# uw-resources
+# Unreal Warfare Resources
+
+This project aims to piece together all resources that were trickled out over the years
+that were originally intended for Epic Games' Unreal Warfare, which was the predecessor
+to what eventually became Gears of War.
+
+Many of these resources have been accidently left in some third-party games, as content 
+from Unreal Warfare was included as examples of what licensees could potentially do
+with the engine.
+
+## Regarding Resources in UT2k4
+
+Keep in mind that while nearly all the static models and textures are included with Unreal
+Tournament 2004, many of these packages may have been altered or modified in various
+ways - they will eventually make their way up but it all needs to be reviewed very
+carefully.
 
 ----
 
